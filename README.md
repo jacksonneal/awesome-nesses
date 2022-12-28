@@ -17,3 +17,7 @@
 ### Plugins
 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Awesome collection of Neovim plugins.
+
+### Learning
+
+- [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - Building a config from the ground up.
