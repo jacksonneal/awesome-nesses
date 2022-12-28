@@ -11,6 +11,7 @@
 ## Contents
 
 - [Neovim](#neovim)
+- [Haskell](#haskell)
 
 ## Neovim
 
@@ -21,3 +22,9 @@
 ### Learning
 
 - [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - Building a config from the ground up.
+
+## Haskell
+
+### Learning
+
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) - Must read introduction.
