@@ -12,6 +12,7 @@
 
 - [Neovim](#neovim)
 - [Haskell](#haskell)
+- [Machine Learning](#machine-learning)
 
 ## Neovim
 
@@ -29,3 +30,7 @@
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) - Must read introduction.
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) - Principals and advanced topics.
+
+## Machine Learning 
+
+- [Derivation of the Normal Equation for linear regression](https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression/) - Know it.
