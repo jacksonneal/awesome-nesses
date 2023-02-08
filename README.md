@@ -19,6 +19,7 @@
 ### Plugins
 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Awesome collection of Neovim plugins.
+- [LazyVim](https://github.com/LazyVim/LazyVim) - Package management for the lazy.
 
 ### Learning
 
@@ -30,6 +31,11 @@
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) - Must read introduction.
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) - Principals and advanced topics.
+
+### Tooling 
+
+- [Using GHCi](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html) - Your bread and butter.
+- [Pointfree.io](https://pointfree.io/) - Convert Haskell to pointfree Haskell.
 
 ## Machine Learning 
 
