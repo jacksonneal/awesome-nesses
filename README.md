@@ -31,7 +31,7 @@
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) - Must read introduction.
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) - Principals and advanced topics.
-- [Learn Haskell by building a blog generator](https://lhbg-book.link/)(https://lhbg-book.link/)(https://lhbg-book.link/)(https://lhbg-book.link/)(https://lhbg-book.link/)(https://lhbg-book.link/)(https://lhbg-book.link/)(https://lhbg-book.link/)(https://lhbg-book.link/) - Fun intermediate tutorial.
+- [Learn Haskell by building a blog generator](https://lhbg-book.link/) - Fun intermediate tutorial.
 
 ### Tooling 
 
