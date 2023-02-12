@@ -32,11 +32,13 @@
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) - Must read introduction.
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) - Principals and advanced topics.
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/) - Fun intermediate tutorial.
+- [Haskell Study Plan](https://github.com/soupi/haskell-study-plan) - Opinionated guide.
 
 ### Tooling 
 
 - [Using GHCi](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html) - Your bread and butter.
 - [Pointfree.io](https://pointfree.io/) - Convert Haskell to pointfree Haskell.
+- [Haddock Markup](https://haskell-haddock.readthedocs.io/en/latest/markup.html) - Generate documentation.
 
 ## Machine Learning 
 
