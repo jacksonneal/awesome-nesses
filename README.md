@@ -43,3 +43,4 @@
 ## Machine Learning 
 
 - [Derivation of the Normal Equation for linear regression](https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression/) - Know it.
+- [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality) - One of the most important inequalities in mathematics.
