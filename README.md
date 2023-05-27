@@ -13,6 +13,7 @@
 - [Neovim](#neovim)
 - [Haskell](#haskell)
 - [Machine Learning](#machine-learning)
+- [Graphics](#graphics)
 
 ## Neovim
 
@@ -44,3 +45,8 @@
 
 - [Derivation of the Normal Equation for linear regression](https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression/) - Know it.
 - [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality) - One of the most important inequalities in mathematics.
+
+## Graphics
+- [The Book of Shaders](https://thebookofshaders.com/) - Guide of Fragment Shaders.
+
+
