@@ -42,7 +42,7 @@
 - [Haddock Markup](https://haskell-haddock.readthedocs.io/en/latest/markup.html) - Generate documentation.
 
 ### Apps
-- [markup.rocks](https://markup.rocks/) - Sweet document editor making use of pandoc and GHCJS
+- [markup.rocks](https://markup.rocks/) - Sweet document editor making use of pandoc and GHCJS.
 
 ## Machine Learning
 
